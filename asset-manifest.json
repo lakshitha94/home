@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.44242edc.chunk.js",
-    "main.js.map": "/home/static/js/main.44242edc.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.c71ad327.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.c71ad327.js.map",
-    "static/js/2.feeefc50.chunk.js": "/home/static/js/2.feeefc50.chunk.js",
-    "static/js/2.feeefc50.chunk.js.map": "/home/static/js/2.feeefc50.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.45a01ef3897c605b59bb8d051779bb2f.js": "/home/precache-manifest.45a01ef3897c605b59bb8d051779bb2f.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.feeefc50.chunk.js.LICENSE.txt": "/home/static/js/2.feeefc50.chunk.js.LICENSE.txt",
-    "static/media/creative.png": "/home/static/media/creative.624669b6.png",
-    "static/media/kasun.jpg": "/home/static/media/kasun.2ecb22ad.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.7b7ed51f.pdf"
+    "main.css": "/kasunlakshitha.me/static/css/main.956fad23.chunk.css",
+    "main.js": "/kasunlakshitha.me/static/js/main.5f61be38.chunk.js",
+    "main.js.map": "/kasunlakshitha.me/static/js/main.5f61be38.chunk.js.map",
+    "runtime-main.js": "/kasunlakshitha.me/static/js/runtime-main.f32fbb2d.js",
+    "runtime-main.js.map": "/kasunlakshitha.me/static/js/runtime-main.f32fbb2d.js.map",
+    "static/js/2.feeefc50.chunk.js": "/kasunlakshitha.me/static/js/2.feeefc50.chunk.js",
+    "static/js/2.feeefc50.chunk.js.map": "/kasunlakshitha.me/static/js/2.feeefc50.chunk.js.map",
+    "index.html": "/kasunlakshitha.me/index.html",
+    "precache-manifest.96c384434271da788046b6098461b3c7.js": "/kasunlakshitha.me/precache-manifest.96c384434271da788046b6098461b3c7.js",
+    "service-worker.js": "/kasunlakshitha.me/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/kasunlakshitha.me/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.feeefc50.chunk.js.LICENSE.txt": "/kasunlakshitha.me/static/js/2.feeefc50.chunk.js.LICENSE.txt",
+    "static/media/creative.png": "/kasunlakshitha.me/static/media/creative.624669b6.png",
+    "static/media/kasun.jpg": "/kasunlakshitha.me/static/media/kasun.2ecb22ad.jpg",
+    "static/media/resume.pdf": "/kasunlakshitha.me/static/media/resume.7b7ed51f.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c71ad327.js",
+    "static/js/runtime-main.f32fbb2d.js",
     "static/js/2.feeefc50.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.44242edc.chunk.js"
+    "static/js/main.5f61be38.chunk.js"
   ]
 }
